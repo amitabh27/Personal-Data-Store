@@ -1,0 +1,8 @@
+CREATE pds_demo
+OPEN pds_demo
+STORE 1
+STORE 2
+SEARCH 1
+DELETE 2
+COUNT
+CLOSE
