@@ -11,9 +11,9 @@ The C codes have been implemented using following constructs:
     
 VERSIONS :
 
-V1 - This version implements basic store and search operations of a repository using files.
-V2 - This version introduces an efficient data structure BST to handle the above operations.
-V3 - This version introduces additional features like deletion,avoiding duplicate insertion etc.
+1. V1 - This version implements basic store and search operations of a repository using files.
+2. V2 - This version introduces an efficient data structure BST to handle the above operations.
+3. V3 - This version introduces additional features like deletion,avoiding duplicate insertion etc.
 
 
 
